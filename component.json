@@ -1,0 +1,9 @@
+{
+  "name": "async-some",
+  "repo": "enricomarino/async-some",
+  "version": "0.0.1",
+  "description": "async some",
+  "keywords": [],
+  "scripts": ["index.js"],
+  "license": "MIT"
+}
